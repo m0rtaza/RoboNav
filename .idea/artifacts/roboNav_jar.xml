@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="roboNav:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/roboNav_jar</output-path>
+    <root id="archive" name="roboNav.jar">
+      <element id="module-output" name="roboNav" />
+    </root>
+  </artifact>
+</component>
